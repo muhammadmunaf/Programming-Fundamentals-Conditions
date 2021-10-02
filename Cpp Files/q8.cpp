@@ -1,5 +1,3 @@
-/*Muhammad Munaf Ul Hassan 20i-0891*/
-
 #include <iostream>
 #include <iomanip>
 #include <stdlib.h>
